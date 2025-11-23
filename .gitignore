@@ -134,3 +134,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.expo/web/cache/development/babel-loader/fe9caed3cf56ed150dd3b1e68670947fc9382505b44d1d6084599e3190a336f6.json
